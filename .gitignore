@@ -1,3 +1,7 @@
 res/backend/node_modules/
+res/backend/node_modules/id_rsa
+res/backend/node_modules/.pub
+res/backend/node_modules/id_rsa.pub
+res/backend/node_modules/uploads/*
 res/frontend/node_modules/
 res/mobile/node_modules/
