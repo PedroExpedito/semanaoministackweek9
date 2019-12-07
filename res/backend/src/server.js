@@ -21,7 +21,7 @@ io.on("connection", socket => {
     
 })
 
-mongoose.connect("mongodb+srv://expedito00:96335565@expeditomongodb-atjvu.mongodb.net/expedito?retryWrites=true&w=majority", {
+mongoose.connect("", {
     useNewUrlParser: true,
     useUnifiedTopology: true,
 })
